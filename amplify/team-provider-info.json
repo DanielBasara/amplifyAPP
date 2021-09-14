@@ -1,0 +1,41 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyapp-dev-151634-authRole",
+      "UnauthRoleArn": "arn:aws:iam::559570154359:role/amplify-amplifyapp-dev-151634-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::559570154359:role/amplify-amplifyapp-dev-151634-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifyapp-dev-151634-deployment",
+      "UnauthRoleName": "amplify-amplifyapp-dev-151634-unauthRole",
+      "StackName": "amplify-amplifyapp-dev-151634",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:559570154359:stack/amplify-amplifyapp-dev-151634/53f02b10-1523-11ec-905b-0a0baa83eced",
+      "AmplifyAppId": "dt18okttv2pbf"
+    }
+  },
+  "new": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyapp-new-154133-authRole",
+      "UnauthRoleArn": "arn:aws:iam::559570154359:role/amplify-amplifyapp-new-154133-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::559570154359:role/amplify-amplifyapp-new-154133-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifyapp-new-154133-deployment",
+      "UnauthRoleName": "amplify-amplifyapp-new-154133-unauthRole",
+      "StackName": "amplify-amplifyapp-new-154133",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:559570154359:stack/amplify-amplifyapp-new-154133/ce02e700-1526-11ec-b180-0acf083ddb85",
+      "AmplifyAppId": "dt18okttv2pbf"
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyapp-test-163408-authRole",
+      "UnauthRoleArn": "arn:aws:iam::559570154359:role/amplify-amplifyapp-test-163408-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::559570154359:role/amplify-amplifyapp-test-163408-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifyapp-test-163408-deployment",
+      "UnauthRoleName": "amplify-amplifyapp-test-163408-unauthRole",
+      "StackName": "amplify-amplifyapp-test-163408",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:559570154359:stack/amplify-amplifyapp-test-163408/289d2930-152e-11ec-a600-0e5fe82806d5",
+      "AmplifyAppId": "d2ul49nmyn8itg"
+    }
+  }
+}
