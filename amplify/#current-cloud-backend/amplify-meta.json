@@ -35,8 +35,22 @@
         "s3TemplateURL": "https://s3.amazonaws.com/amplify-amplifyapp-test-163408-deployment/amplify-cfn-templates/api/cloudformation-template.json",
         "logicalId": "apiamplifyapp"
       },
-      "lastPushTimeStamp": "2021-09-14T07:50:11.951Z",
+      "lastPushTimeStamp": "2021-09-14T12:13:06.869Z",
       "lastPushDirHash": "/rjxtyo7jR17ZAD36wr0Darjydg="
+    }
+  },
+  "hosting": {
+    "amplifyhosting": {
+      "service": "amplifyhosting",
+      "providerPlugin": "awscloudformation",
+      "type": "manual",
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-amplifyapp-test-163408-deployment/amplify-cfn-templates/hosting/amplifyhosting-template.json",
+        "logicalId": "hostingamplifyhosting"
+      },
+      "lastPushTimeStamp": "2021-09-14T12:13:06.898Z",
+      "output": {},
+      "lastPushDirHash": "/+VZ33seFFqAr6wbtptwbINUfSA="
     }
   }
 }

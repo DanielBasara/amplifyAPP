@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Home from './pages/home';
-
+import Amplify from "aws-amplify";
+import awsExports from "./aws-exports"
+import App from './pages/home';
+Amplify.configure(awsExports);
 
 ReactDOM.render(
   <React.StrictMode>
-    <Home />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
